@@ -1,1 +1,1 @@
-# effector-vite-ts
+# effector-vite-react-ts-logger
